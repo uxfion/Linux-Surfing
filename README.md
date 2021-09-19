@@ -56,6 +56,7 @@ INFO[0000] Mixed(http+socks) proxy listening at: 127.0.0.1:7890
 
 > 大家可以使用此[链接🔗](https://www.v2aky.jp.net/#/register?code=voCjUSdi)注册
 > <https://www.v2aky.jp.net/#/register?code=voCjUSdi>
+> 如果轻度使用的话推荐*新[按量/Timeless]*
 
 比如说对于我使用的机场✈️，点击`仪表盘-我的订阅-一键订阅`，复制订阅地址，之后会用
 如果自己有机场，复制自己机场✈️的订阅地址放进订阅转换中
